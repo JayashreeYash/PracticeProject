@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: Runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.511 s <<< FAILURE! - in Runners.TestRunner
+Login Features.User logins with valid credential  Time elapsed: 0.161 s  <<< ERROR!
+io.cucumber.java.PendingException: TODO: implement me
+	at com.example.stepDefinitions.loginStepDefinitions.user_launches_the_app_and_user_is_on_login_page(loginStepDefinitions.java:12)
+	at ✽.User launches the app and user is on login page(file:///C:/Users/jayashreev/Desktop/Mobile%20Automation%20Training/TrainingWorkspace/ArtifactTraining/./src/test/resources/features/Login.feature:25)
+

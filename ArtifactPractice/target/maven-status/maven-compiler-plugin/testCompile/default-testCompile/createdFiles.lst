@@ -1,0 +1,5 @@
+com\example\stepDefinitions\loginStepDefinitions.class
+pageObjects\BasePage.class
+pageObjects\LoginPageObjects.class
+Runners\Hooks.class
+Runners\TestRunner.class
