@@ -5,11 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
   
-  		<dependency>
-	      <groupId>io.github.bonigarcia</groupId>
-	      <artifactId>webdrivermanager</artifactId>
-	      <version>5.5.0</version> <!-- Latest version compatible with Java 1.8 -->
-	    </dependency>
+  		
 	  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 		<dependency>
 		    <groupId>io.cucumber</groupId>
@@ -50,11 +46,6 @@
 		    <version>7.6.0</version>
 		</dependency> 
 		<!-- https://mvnrepository.com/artifact/io.cucumber/gherkin -->
-		<dependency>
-		    <groupId>io.cucumber</groupId>
-		    <artifactId>gherkin</artifactId>
-		    <version>28.0.0</version>
-		</dependency>
 		
 	</dependencies>
 	
